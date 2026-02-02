@@ -1,0 +1,8 @@
+﻿<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Web Tests" parallel="false">
+  <test name="Web">
+    <packages>
+      <package name="com.testing.tests.web" />
+    </packages>
+  </test>
+</suite>
